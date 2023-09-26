@@ -8,6 +8,8 @@ class contoh1 extends CI_Controller
   saya tinggal di Slipi
   olahraga yang saya sukai adalah volly";
 
+  echo "Menambahkan pekerjaan"
+
    }
 
 
